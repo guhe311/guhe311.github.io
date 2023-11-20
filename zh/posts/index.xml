@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GuHe&amp;GG</title>
-    <link>https://guhe311.github.io/zh/</link>
-    <description>Recent content on GuHe&amp;GG</description>
+    <title>Posts on GuHe&amp;GG</title>
+    <link>https://guhe311.github.io/zh/posts/</link>
+    <description>Recent content in Posts on GuHe&amp;GG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 19 Nov 2023 21:09:21 +0800</lastBuildDate>
-    <atom:link href="https://guhe311.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 17:10:48 +0800</lastBuildDate>
+    <atom:link href="https://guhe311.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
       <link>https://guhe311.github.io/zh/posts/first-post/</link>
