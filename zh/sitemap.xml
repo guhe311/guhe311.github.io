@@ -55,6 +55,7 @@
                 />
   </url><url>
     <loc>https://guhe311.github.io/zh/categories/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +68,7 @@
                 />
   </url><url>
     <loc>https://guhe311.github.io/zh/series/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -77,6 +79,15 @@
                 hreflang="zh"
                 href="https://guhe311.github.io/zh/series/"
                 />
+  </url><url>
+    <loc>https://guhe311.github.io/zh/categories/web/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guhe311.github.io/zh/posts/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guhe311.github.io/zh/series/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://guhe311.github.io/zh/tags/</loc>
     <xhtml:link
